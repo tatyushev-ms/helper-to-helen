@@ -1,4 +1,4 @@
-package com.tatyushevms.primes;
+package com.tatyushevms.helpertohelen;
 
 import java.util.ArrayList;
 import java.util.List;

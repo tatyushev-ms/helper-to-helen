@@ -1,5 +1,6 @@
-package com.tatyushevms.primes;
+package com.tatyushevms.helpertohelen;
 
+import com.tatyushevms.helpertohelen.Solution;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

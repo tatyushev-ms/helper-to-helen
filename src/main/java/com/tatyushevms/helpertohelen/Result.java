@@ -1,4 +1,4 @@
-package com.tatyushevms.primes;
+package com.tatyushevms.helpertohelen;
 
 public class Result {
     
